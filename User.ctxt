@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ userName\ email\ password
+comment0.target=User(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getUserName()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getEmail()
+comment4.params=
+comment4.target=java.lang.String\ getPassword()
+comment5.params=
+comment5.target=void\ toPrint()
+numComments=6
